@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Musoukyoku</title>
+  
+  
+  <link href="https://musoukyoku.me/atom.xml" rel="self"/>
+  
+  <link href="https://musoukyoku.me/"/>
+  <updated>2021-05-27T20:25:59.826Z</updated>
+  <id>https://musoukyoku.me/</id>
+  
+  <author>
+    <name>Musoukyoku</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello world</title>
+    <link href="https://musoukyoku.me/hello-world/"/>
+    <id>https://musoukyoku.me/hello-world/</id>
+    <published>2021-05-27T17:20:17.864Z</published>
+    <updated>2021-05-27T20:25:59.826Z</updated>
+    
+    <content type="html"><![CDATA[<p>zero to one</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;zero to one&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="其它" scheme="https://musoukyoku.me/categories/%E5%85%B6%E5%AE%83/"/>
+    
+    
+  </entry>
+  
+</feed>
