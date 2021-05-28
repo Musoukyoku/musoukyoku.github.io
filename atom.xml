@@ -3,11 +3,11 @@
   <title>Musoukyoku</title>
   
   
-  <link href="https://musoukyoku.me/atom.xml" rel="self"/>
+  <link href="https://musoukyoku.github.io/atom.xml" rel="self"/>
   
-  <link href="https://musoukyoku.me/"/>
+  <link href="https://musoukyoku.github.io/"/>
   <updated>2021-05-27T20:25:59.826Z</updated>
-  <id>https://musoukyoku.me/</id>
+  <id>https://musoukyoku.github.io/</id>
   
   <author>
     <name>Musoukyoku</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello world</title>
-    <link href="https://musoukyoku.me/hello-world/"/>
-    <id>https://musoukyoku.me/hello-world/</id>
+    <link href="https://musoukyoku.github.io/hello-world/"/>
+    <id>https://musoukyoku.github.io/hello-world/</id>
     <published>2021-05-27T17:20:17.864Z</published>
     <updated>2021-05-27T20:25:59.826Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="其它" scheme="https://musoukyoku.me/categories/%E5%85%B6%E5%AE%83/"/>
+    <category term="其它" scheme="https://musoukyoku.github.io/categories/%E5%85%B6%E5%AE%83/"/>
     
     
   </entry>
